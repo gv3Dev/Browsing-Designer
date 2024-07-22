@@ -1,5 +1,8 @@
 # Browsing-Designer 🎨
 
+### Please note: This script is being updated soon, within 2 days of this commit. 🤞
+
+
 Browsing Designer is a Tampermonkey userscript that allows you to design and customize any website you visit. With this script, you can change the font, text color, and background color of a webpage, and even apply a rainbow effect to the background. You can also save your customizations locally so they persist across sessions.
 
 ## Features
